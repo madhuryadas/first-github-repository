@@ -1,2 +1,4 @@
-# first-github-repository
-My first github repository
+# first-GitHub-repository
+My first GitHub repository
+
+The readME.md file was updated
